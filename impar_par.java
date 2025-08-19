@@ -15,7 +15,7 @@ public class impar_par {
 
       for (int i = 2; i <= 30; i += 2 )  {
         System.out.printf(" | " + i);
-    
+       scanner.close();
     }
 }
 }
