@@ -37,6 +37,6 @@ public static void bubbleSort(int[] arr) {
         numeros.add(2);
         numeros.add(3);
 
-        System.out.println("\n TreeSet ordenado: " + numeros); // Saída: TreeSet ordenado.
+        System.out.println("Collection ordenado: " + numeros); // Saída: TreeSet ordenado.
     }
 }
